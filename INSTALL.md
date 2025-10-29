@@ -64,6 +64,15 @@ Now, feel free to customize the theme however you like (don't forget to change t
 
 > Beta: You can also use the slimmed docker image with a size below 100MBs and exact same functionality. Just use `docker compose -f docker-compose-slim.yml up`
 
+
+## My own words
+Step to run the pre-installed container:
+```bash
+$ systemctl --user enable docker-desktop
+$ docker compose pull
+$ docker compose up
+```
+
 ### Build your own docker image
 
 > Note: this approach is only necessary if you would like to build an older or very custom version of al-folio.
