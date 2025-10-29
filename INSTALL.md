@@ -68,7 +68,7 @@ Now, feel free to customize the theme however you like (don't forget to change t
 ## My own words
 Step to run the pre-installed container:
 ```bash
-$ systemctl --user enable docker-desktop
+$ systemctl --user start docker-desktop
 $ docker compose pull
 $ docker compose up
 ```
