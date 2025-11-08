@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "My research journey in robot control.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -454,6 +454,46 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-do-cbf-qp",
+          title: 'DO-CBF-QP',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/DO-CBF-QP/";
+            },},{id: "projects-do-rl-for-overhead-crane-systems",
+          title: 'DO-RL for overhead crane systems',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/DO-RL/";
+            },},{id: "projects-humanoid-terrain-traversal-via-apt-rl",
+          title: 'Humanoid Terrain Traversal via APT-RL',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Humanoid%20Terrain%20Traversal%20via%20APT-RL/";
+            },},{id: "projects-imitation-learning-example-via-amp",
+          title: 'Imitation Learning example via AMP',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Imitation%20Learning%20example%20via%20AMP/";
+            },},{id: "projects-learning-based-control-class",
+          title: 'Learning-based Control Class',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Learning-based%20Control%20Class/";
+            },},{id: "projects-loco-manipulation-for-humanoids-via-apt-rl",
+          title: 'Loco-Manipulation for Humanoids via APT-RL',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Loco-Manipulation%20for%20Humanoids%20via%20APT-RL/";
+            },},{id: "projects-mpc-for-srb-quadrupeds",
+          title: 'MPC for SRB Quadrupeds',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/MPC%20for%20SRB%20Quadrupeds/";
+            },},{id: "projects-neural-network-based-mpc",
+          title: 'Neural Network-based MPC',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Neural%20Network-based%20MPC/";
             },},{
         id: 'social-email',
         title: 'email',
