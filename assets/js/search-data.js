@@ -456,42 +456,42 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-do-cbf-qp",
           title: 'DO-CBF-QP',
-          description: "with background image",
+          description: "A Disturbance-Observer based Safety-Critical Control for Uncertain Affine Nonlinear Systems",
           section: "Projects",handler: () => {
               window.location.href = "/projects/DO-CBF-QP/";
             },},{id: "projects-do-rl-for-overhead-crane-systems",
           title: 'DO-RL for overhead crane systems',
-          description: "with background image",
+          description: "Disturbance-observer based reinforcement learning for overhead crane systems",
           section: "Projects",handler: () => {
               window.location.href = "/projects/DO-RL/";
             },},{id: "projects-humanoid-terrain-traversal-via-apt-rl",
           title: 'Humanoid Terrain Traversal via APT-RL',
-          description: "with background image",
+          description: "Learning locomotion in complex terrains for Humanoid Robots via Action-Pretrained Reinforcement Learning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Humanoid%20Terrain%20Traversal%20via%20APT-RL/";
             },},{id: "projects-imitation-learning-example-via-amp",
           title: 'Imitation Learning example via AMP',
-          description: "with background image",
+          description: "Imitation Learning example for a customized humanoid character via Adversarial Motion Priors",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Imitation%20Learning%20example%20via%20AMP/";
             },},{id: "projects-learning-based-control-class",
           title: 'Learning-based Control Class',
-          description: "with background image",
+          description: "Quadruped robots fight each other by reinforcement learning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Learning-based%20Control%20Class/";
             },},{id: "projects-loco-manipulation-for-humanoids-via-apt-rl",
           title: 'Loco-Manipulation for Humanoids via APT-RL',
-          description: "with background image",
+          description: "Learning Loco-manipulation for Humanoid Robots via Action-Pretrained Reinforcement Learning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Loco-Manipulation%20for%20Humanoids%20via%20APT-RL/";
             },},{id: "projects-mpc-for-srb-quadrupeds",
           title: 'MPC for SRB Quadrupeds',
-          description: "with background image",
+          description: "Reproduce &#39;Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control&#39; with a Single rigid body model",
           section: "Projects",handler: () => {
               window.location.href = "/projects/MPC%20for%20SRB%20Quadrupeds/";
             },},{id: "projects-neural-network-based-mpc",
           title: 'Neural Network-based MPC',
-          description: "with background image",
+          description: "Model Predictive Control of a Single-link Robot Arm Using Neural Network",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Neural%20Network-based%20MPC/";
             },},{
