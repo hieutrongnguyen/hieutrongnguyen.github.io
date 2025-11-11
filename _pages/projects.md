@@ -5,7 +5,7 @@ permalink: /projects/
 description: My research journey in robot control.
 nav: true
 nav_order: 3
-display_categories: [major projects, supporting projects, fun]
+display_categories: [major projects, supporting projects] # fun
 horizontal: false
 ---
 

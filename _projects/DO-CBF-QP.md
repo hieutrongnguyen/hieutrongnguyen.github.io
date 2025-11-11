@@ -2,7 +2,7 @@
 layout: page
 title: DO-CBF-QP
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/Control System for Thesis.png
 importance: 2
 category: major projects
 related_publications: true
