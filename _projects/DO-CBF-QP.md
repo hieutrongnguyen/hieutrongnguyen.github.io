@@ -1,8 +1,8 @@
 ---
 layout: page
 title: DO-CBF-QP
-description: with background image
-img: assets/img/Control System for Thesis.png
+description: A Disturbance-Observer based Safety-Critical Control for Uncertain Affine Nonlinear Systems
+img: assets/img/Control_System_for_Thesis.png
 importance: 2
 category: major projects
 related_publications: true

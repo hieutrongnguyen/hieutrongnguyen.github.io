@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DO-RL for overhead crane systems
-description: with background image
+description: Disturbance-observer based reinforcement learning for overhead crane systems
 img: assets/img/12.jpg
 importance: 4
 category: supporting projects

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Humanoid Terrain Traversal via APT-RL
-description: with background image
+description: Learning locomotion in complex terrains for Humanoid Robots via Action-Pretrained Reinforcement Learning
 img: assets/img/12.jpg
 importance: 1
 category: supporting projects

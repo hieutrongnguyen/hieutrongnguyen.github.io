@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MPC for SRB Quadrupeds
-description: with background image
+description: Reproduce 'Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control' with a Single rigid body model
 img: assets/img/12.jpg
 importance: 4
 category: supporting projects

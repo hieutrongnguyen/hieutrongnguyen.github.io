@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Loco-Manipulation for Humanoids via APT-RL
-description: with background image
+description: Learning Loco-manipulation for Humanoid Robots via Action-Pretrained Reinforcement Learning
 img: assets/img/12.jpg
 importance: 1
 category: major projects

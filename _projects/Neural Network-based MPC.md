@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Neural Network-based MPC
-description: with background image
-img: assets/img/12.jpg
+description: Model Predictive Control of a Single-link Robot Arm Using Neural Network
+img: assets/img/Neural_network.png
 importance: 5
 category: supporting projects
 related_publications: true

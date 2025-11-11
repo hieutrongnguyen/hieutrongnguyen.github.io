@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learning-based Control Class
-description: with background image
+description: Quadruped robots fight each other by reinforcement learning
 img: assets/img/12.jpg
 importance: 5
 category: supporting projects

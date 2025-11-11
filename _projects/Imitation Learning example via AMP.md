@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Imitation Learning example via AMP
-description: with background image
+description: Imitation Learning example for a customized humanoid character via Adversarial Motion Priors
 img: assets/img/12.jpg
 importance: 2
 category: supporting projects
