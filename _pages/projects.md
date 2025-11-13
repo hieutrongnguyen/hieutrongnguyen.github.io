@@ -2,12 +2,13 @@
 layout: page
 title: projects
 permalink: /projects/
-description: My research journey in robot control.
+description: 
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [major projects, supporting projects] # fun
 horizontal: false
 ---
+My research journey in robot control.
 
 <!-- pages/projects.md -->
 <div class="projects">
