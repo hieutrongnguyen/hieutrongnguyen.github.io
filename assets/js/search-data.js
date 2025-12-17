@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-start-my-master-degree-at-kaist",
-          title: 'I start my Master degree at KAIST.',
+            },},{id: "news-i-started-my-master-degree-at-kaist-and-joined-dynamic-robot-control-amp-amp-design-lab",
+          title: 'I started my Master degree at KAIST and joined Dynamic Robot Control &amp;amp;amp;...',
           description: "",
           section: "News",},{id: "news-i-start-my-role-at-wim-inc",
           title: 'I start my role at WIM Inc.',
