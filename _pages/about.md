@@ -30,3 +30,7 @@ latest_posts:
 I am currently an engineer in [WIM Inc.](https://en.wimcorp.co.kr/?redirect=no) where I'm mainly working with manipulators for industrial tasks.
 
 Previously, I did my MS at Department of Mechanical Engineering, KAIST, as a member of [Dynamic Robot Control & Design Lab](https://dynamicrobot.kaist.ac.kr/) under the supervision of Professor Hae-Won Park. I did my BS in HUST with the major in Control and Automation Engineering.
+
+Through my experiences, I have built a strong foundation in robotics and autonomous systems—particularly in decision-making and control—and have continued to deepen my understanding in these areas. My long-term goal is to pursue fundamental problems that expand the capabilities and intelligence of robotic systems.
+
+Besides work, I like travelling to explore new cities and cultures.
