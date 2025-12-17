@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I start my Master degree at KAIST.
+I started my Master degree at KAIST and joined [Dynamic Robot Control & Design Lab](https://dynamicrobot.kaist.ac.kr/).
