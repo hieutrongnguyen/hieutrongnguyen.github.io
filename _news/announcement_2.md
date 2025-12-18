@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I start my role at [WIM Inc.](https://en.wimcorp.co.kr/?redirect=no)
+I started my role at [WIM Inc.](https://en.wimcorp.co.kr/?redirect=no)
