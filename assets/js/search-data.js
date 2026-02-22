@@ -485,6 +485,11 @@ ninja.data = [{
           description: "Model Predictive Control of a Single-link Robot Arm Using Neural Network",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Neural%20Network-based%20MPC/";
+            },},{id: "projects-robustloco",
+          title: 'RobustLoco',
+          description: "Benchmarking Robust Learning-Based Locomotion Under Severe External Disturbances",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RobustLoco/";
             },},{
         id: 'social-email',
         title: 'email',
