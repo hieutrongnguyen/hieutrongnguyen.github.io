@@ -18,7 +18,7 @@ I utilized the Adversarial Motion Prior (AMP) training pipeline provided by the 
 
 In this work, I investigated three widely used approaches:
 
-(1) _Domain Randomization (DR)_: The policy is trained using domain randomization over key physical parameters (e.g., mass, inertia), with additional external forces and torques applied at the robot’s center of mass (CoM).
+(1) _Domain Randomization (DR)_: The policy is trained with domain randomization over key physical parameters, including the base mass, the centers of mass of all robot bodies, and terrain friction. In addition, random external forces and torques are applied at the base center of mass.
 
 (2) _Concurrent State Estimation (CSE)_ [1]: The actor and critic are trained concurrently with a state estimator that infers critical states—such as velocities, foot height, and external forces and torques acting on the robot’s CoM—from a history of observations. These estimated states are concatenated with proprioceptive inputs and fed to the actor to improve robustness.
 
@@ -26,9 +26,23 @@ In this work, I investigated three widely used approaches:
 
 **Results**
 
-The following [video](https://www.youtube.com/watch?v=SRodEnhhWaE) illustrates the policy obtained using the CSE method, which enables the robot to run uphill under an external force disturbance of −40 N while tracking a velocity command of 1 m/s.
+Figure 1 shows the velocity tracking performance and transport cost of the validated methods. From the figure, it can be seen that the student policy generally performs best among the three methods. CSE shows no significant improvement over naive DR, and even performs worse in some cases.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/RobustLoco_materials/vx.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/RobustLoco_materials/wz.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/RobustLoco_materials/CoT.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Figure 1. (Left) Forward velocity tracking in x direction (Middle) Angular velocity tracking (Right) Cost of Transport  
+</div>
 
-The quantitative results of this project will be updated as soon as possible.
+The following [video](https://www.youtube.com/watch?v=SRodEnhhWaE) illustrates the policy obtained using the CSE method, which enables the robot to run uphill under an external force disturbance of −40 N while tracking a velocity command of 1 m/s.
 
 **References**
 
